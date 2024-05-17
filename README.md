@@ -22,4 +22,5 @@ https://youtu.be/ltPanBm_5ks <br>
 <p>3. Rodar o programa em sua devida ordem</p><br>
 
 ### Arquitetura da solução
-![Arquitetura_Software_SavvyFix](https://github.com/LuizFFarias/challenge-java-savvyfix/assets/85761347/be7f523a-804f-4689-97ab-93bca547b6b5)
+![Arquitetura_Software_SavvyFix](https://github.com/rafaellabastos/savvyfix-ia-notebook/assets/85761347/94d1cf18-6a94-4f14-aa0b-556614642fef)
+
