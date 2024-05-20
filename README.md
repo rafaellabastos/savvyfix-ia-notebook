@@ -2,16 +2,12 @@
 
 ## Lista dos integrantes:
 #### 1. Douglas Magalhães de Araujo - 552008
-<p>Responsável principal pelo desenvolvimento front e pesquisa.</p>
 
 #### 2. Gustavo Argüello Bertacci - 551304
-<p>Responsável pelo desenvolvimento back e pelo suporte.</p>
 
 #### 3. Luiz Fillipe Farias - 99519
-<p>Responsável principal pelo desenvolvimento back e pesquisa.</p>
 
 #### 4. Rafaella Monique do Carmo Bastos - 552425
-<p>Responsável pela documentação, banco de dados e desenvolvimento back/front.</p><br>
 
 ## Link do pitch
 https://youtu.be/AjXCegOAnfw
