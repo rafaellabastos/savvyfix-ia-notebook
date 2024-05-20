@@ -14,7 +14,7 @@
 <p>Responsável pela documentação, banco de dados e desenvolvimento back/front.</p><br>
 
 ## Link do pitch
-https://youtu.be/ltPanBm_5ks <br>
+https://youtu.be/AjXCegOAnfw
 
 ## Instrução de como rodar a aplicação
 <p>1. Adicionar o notebook na IDE</p>
