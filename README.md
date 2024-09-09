@@ -29,7 +29,7 @@ https://youtu.be/AjXCegOAnfw
 <p>7. Na aba de arquivos, clique no primeiro ícone "Fazer upload para o armazenamento da sessão".</p>
 <p>8. Ao abrir o gerenciador de arquivos, carregue o arquivo do dataset</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Este arquivo está disponível na raiz do repositório "rafaellabastos/savvyfix-ia-notebook". Para obtê-lo, basta entrar no repositório pelo Github e baixar o arquivo .xlsx</p>
-<p>Rode o projeto na ordem em que está codificado no notebook</p>
+<p>9. Rode o projeto na ordem em que está codificado no notebook</p>
 
 <br>
 
