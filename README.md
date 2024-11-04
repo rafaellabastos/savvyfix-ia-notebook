@@ -14,7 +14,7 @@
 <br>
 
 ## Link para a apresentação do protótipo
-https://youtu.be/0s3wP2qqvvk?si=tA8YvQmTqHFuQOXy
+https://youtu.be/ypOvZ8OJ-jU?si=fFPkBtZ2dabfuZ_P
 
 <br>
 
