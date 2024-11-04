@@ -5,11 +5,11 @@
 
 #### 2. Erik Yuuzo Kobayachi Yamada - 98027
 
-#### 2. Gustavo Argüello Bertacci - 551304
+#### 3. Gustavo Argüello Bertacci - 551304
 
-#### 3. Luiz Fillipe Farias - 99519
+#### 4. Luiz Fillipe Farias - 99519
 
-#### 4. Rafaella Monique do Carmo Bastos - 552425
+#### 5. Rafaella Monique do Carmo Bastos - 552425
 
 <br>
 
